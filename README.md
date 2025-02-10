@@ -13,7 +13,6 @@ This journey was about more than just placing— it was about pushing the bounda
 
 I am honored to have received a **Certificate of Participation** for successfully participating in the event, where teams from all over the world came together to compete in autonomous robotic challenges on water.
 
-![Certificate of Participation](./path/to/your/image.jpg) <!-- Add the path to your certificate image -->
 
 ### Certificate Highlights:
 - **Presented to**: Yousef Abdallah
