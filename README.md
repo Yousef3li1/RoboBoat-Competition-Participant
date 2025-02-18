@@ -4,7 +4,7 @@
 
 In 2023, I had the incredible opportunity to participate in the **16th Annual International RoboBoat Competition**, where my team, **Arab Academy for Science, Technology & Maritime Transport - Hapi**, made a remarkable impact. Not only did we compete with the best teams globally, but we also brought home some serious recognition:
 
-- 🥈 **2nd Place in Egypt** 🏅
+- 🥈 **1nd Place in Egypt** 🏅
 - 🌍 **7th Place globally** 🌊
 
 This journey was about more than just placing— it was about pushing the boundaries of maritime technology and robotics, showcasing innovation, teamwork, and perseverance.
