@@ -410,19 +410,6 @@ This certificate represents successful participation in one of the world's premi
 - **Marine Biology** - Ecosystem monitoring capabilities
 - **Search and Rescue** - Emergency response applications
 
-## 🤝 Team & Contributors
-
-### Core Team Members
-- **Yousef Abdallah** - Team Lead, Navigation Systems
-- **[Team Member 2]** - Computer Vision Engineer  
-- **[Team Member 3]** - Hardware Design Engineer
-- **[Team Member 4]** - Software Architecture
-- **[Team Member 5]** - Testing & Validation
-
-### Faculty Advisors
-- **Prof. [Advisor Name]** - Maritime Engineering
-- **Dr. [Advisor Name]** - Robotics & AI
-
 ### Institution
 **Arab Academy for Science, Technology & Maritime Transport (AASTMT)**  
 Alexandria, Egypt
@@ -431,43 +418,9 @@ Alexandria, Egypt
 
 This project wouldn't have been possible without the incredible technical expertise of our team. From hardware design to coding the autonomous systems, every part of the boat was a testament to our teamwork, skills, and dedication to the craft.
 
-Special thanks to:
 
-- **RoboNation, Inc.** for organizing such an amazing event that brought together teams from around the globe
-- **AASTMT** for institutional support and resources  
-- **Nathan Benderson Park** for hosting the competition
-- **Fellow Competitors** for pushing the boundaries of maritime technology and robotics
-- **Sponsors and Partners** who made this project possible
 
-The competition was about more than just placing—it was about showcasing innovation, teamwork, and perseverance while engaging with some of the most innovative minds in the field of robotics and autonomous systems.
 
-## 📞 Contact & Support
-
-### Project Contacts
-- 📧 **Email:** yousef.abdallah@aast.edu
-- 🔗 **LinkedIn:** [linkedin.com/in/yousef-abdallah](https://linkedin.com/in/yousef-abdallah)
-- 🐙 **GitHub:** [github.com/yousef-abdallah](https://github.com/yousef-abdallah)
-
-### Competition Resources
-- 🌐 **RoboNation:** [robonation.org](https://robonation.org)
-- 📚 **Competition Rules:** [RoboBoat 2023 Guidelines](https://robonation.org/programs/roboboat/)
-- 🎥 **Competition Videos:** [YouTube Channel](https://youtube.com/robonation)
-
-### Technical Support
-- 🐛 **Issues:** [GitHub Issues](https://github.com/yousef-abdallah/roboboat-2023/issues)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/yousef-abdallah/roboboat-2023/discussions)
-- 📖 **Documentation:** [Project Wiki](https://github.com/yousef-abdallah/roboboat-2023/wiki)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📈 Project Statistics
-
-![GitHub Stars](https://img.shields.io/github/stars/yousef-abdallah/roboboat-2023)
-![GitHub Forks](https://img.shields.io/github/forks/yousef-abdallah/roboboat-2023)
-![GitHub Issues](https://img.shields.io/github/issues/yousef-abdallah/roboboat-2023)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/yousef-abdallah/roboboat-2023)
 
 ---
 
